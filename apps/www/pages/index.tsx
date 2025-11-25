@@ -396,7 +396,7 @@ bun add react-material # bun`}
                   Read the Docs
                 </Button>
               </Link>
-              <Link href="https://github.com/yourusername/react-material">
+              <Link href="https://github.com/miukyo/react-material">
                 <Button size="large" variant="outlined" className="font-dmsans font-semibold">
                   <Icon className="mr-2">code</Icon>
                   View on GitHub
