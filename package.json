@@ -4,7 +4,8 @@
   "devDependencies": {
     "prettier": "^3.5.3",
     "turbo": "^2.5.4",
-    "typescript": "5.8.2"
+    "typescript": "5.8.2",
+    "next": "^15.3.0",
   },
   "packageManager": "bun@1.2.13",
   "private": true,
